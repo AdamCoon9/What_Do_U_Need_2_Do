@@ -1,0 +1,5 @@
+Container Components:
+
+App: The main container component that holds the state and includes routing.
+TodoList: A container for TodoItem components. Fetches the todos from the state based on the current filter.
+ContactForm: A container for the contact form fields. Holds the state for the form.
