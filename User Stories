@@ -1,0 +1,13 @@
+As a user, I want to manage my tasks effectively.
+I want to be able to add new tasks to my list so that I can keep track of what I need to do.
+I want to be able to mark tasks as completed so that I can see what I’ve accomplished.
+I want to be able to remove tasks from my list so that I can declutter my task list.
+
+As a user, I want to filter my tasks based on their completion status.
+I want to be able to view all my tasks so that I can get an overview of what I need to do.
+I want to be able to view only my completed tasks so that I can see what I’ve accomplished.
+I want to be able to view only my incomplete tasks so that I can focus on what I still need to do.
+
+As a user, I want to be able to contact the application’s support team.
+I want to be able to fill out a contact form with my first name, last name, email, and comments so that I can communicate with the support team.
+I want the form to be a controlled component so that the form’s state changes as I type.
