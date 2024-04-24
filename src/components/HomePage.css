@@ -1,0 +1,28 @@
+.homepage {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .feature-links {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+  
+  .feature-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .feature-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    transition: 0.3s;
+  }
+  
+  .feature-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
