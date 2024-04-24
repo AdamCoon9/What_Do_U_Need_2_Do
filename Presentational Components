@@ -1,0 +1,6 @@
+Presentational Components:
+
+Navbar: Displays the navigation bar.
+TodoItem: Displays a single todo item with options to mark as complete, edit, or delete.
+AddTodoForm: Displays a form to add a new todo.
+ContactFormField: Displays a single field for the contact form.
